@@ -7,3 +7,9 @@
 - Deployed application to a hosting platform Netlify.
 
 - Tested the deployed application on multiple devices to verify its functionality and responsiveness.
+
+# Steps to install
+
+- Clone the repository
+- Install pnpm
+- Run `pnpm install`
