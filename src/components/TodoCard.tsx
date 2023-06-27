@@ -1,7 +1,6 @@
 import { FC } from "react";
 import { cn } from "./utils";
 import { BsThreeDots } from "react-icons/bs";
-import { image1 } from "../assets/images";
 import { file, message } from "../assets/icons";
 
 interface TodoCardProps {
