@@ -1,4 +1,4 @@
-# Milestones Achieved
+# 🚀 Milestones Achieved
 
 - Implemented the Kanban functionality which allows users to drag cards between columns smoothly.
 
